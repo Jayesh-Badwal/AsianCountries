@@ -1,5 +1,3 @@
 # AsianCountries
 
-![](main.png)
-
-![](second.png)
+![](main.png) ![](second.png)
